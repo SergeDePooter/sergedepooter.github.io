@@ -1,3 +1,9 @@
+---
+title: Can we still be developers?
+date: 2026-03-06 21:30:00
+categories: [C#]
+tags: [c#, Blazor, AI]
+---
 # 💻 Can we still be developers?
 
 It is now already commonly known that AI is here to stay. In what form, we cannot say but one thing is certain: the role of the developer is changing drastically, and more important, it is changing fast. I must admit that until last summer, I was one on the skeptical side on the use and progress of AI. When I used it, I often wasn't satisfied with the results. AI didn't seem to understand me, and I didn't understand AI. However, when newer and better models were deployed in the fall of 2025, my view changed entirely. Here is my story.
