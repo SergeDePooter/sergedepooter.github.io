@@ -1,5 +1,5 @@
 ---
-title: Can we still be developers
+title: Can we still be developers?
 date: 2026-03-06 21:30:00
 categories: [C#]
 tags: [c#, Blazor, AI]
