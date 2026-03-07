@@ -68,7 +68,7 @@ CitytripPlanner/
 
 It is feature based, it uses CQRS and it has a neath separation of concerns regarding dependencies. Plain simple, a not too fancy setup but efficient. After all, it still is a demo project. Time to start the experiment with the fresh setup.
 
-For my features, I relied on the usage of speckit (https://speckit.org/). It is a useful tool when starting exploring AI or if you don't have too much experience with coding or breaking down requirements in comprehendible (sub)tasks. Not going into details here, but make sure to check it out. 
+For my features, I relied on the usage of [speckit](https://speckit.org/). It is a useful tool when starting exploring AI or if you don't have too much experience with coding or breaking down requirements in comprehendible (sub)tasks. Not going into details here, but make sure to check it out. 
 
 ```
 On a side note here: in my opinion, when you used speckit a couple of times, speckit makes itself obsolete because you can learn yourself to anticipate most steps it uses.
@@ -85,7 +85,7 @@ What is not working well:
 
 So far for the bad news. The good news however: if we are clear enough against AI, I'm sure we can delegate tasks to fix these topics.
 
-The demo project can be found here: https://github.com/SergeDePooter/AI-Blazor-Demo
+The demo project can be found here: [Github](https://github.com/SergeDePooter/AI-Blazor-Demo)
 
 ## 🚀 From demo to development
 Now came the real test: is this ready to be used in a real development cycle? The outline of the demo project was quite boiler-plate and not a legacy project with different structure or approach. My solution only exists with a couple of projects, what if the solution is a lot bigger / complexer? Well, only 1 way to find out.
