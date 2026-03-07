@@ -85,6 +85,8 @@ What is not working well:
 
 So far for the bad news. The good news however: if we are clear enough against AI, I'm sure we can delegate tasks to fix these topics.
 
+The demo project can be found here: https://github.com/SergeDePooter/AI-Blazor-Demo
+
 ## 🚀 From demo to development
 Now came the real test: is this ready to be used in a real development cycle? The outline of the demo project was quite boiler-plate and not a legacy project with different structure or approach. My solution only exists with a couple of projects, what if the solution is a lot bigger / complexer? Well, only 1 way to find out.
 
